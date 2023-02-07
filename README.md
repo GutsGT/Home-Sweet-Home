@@ -10,5 +10,7 @@ if(primeiro commit da máquina){
   ...\Home Sweet Home>first_push <data>
 
 }else{
+
   ...\Home Sweet Home>push <data>
+  
 }
