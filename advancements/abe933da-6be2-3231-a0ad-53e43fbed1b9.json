@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_candle": {
+    "criteria": {
+      "has_lime_dye": "2023-02-26 14:16:16 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2022-04-16 22:27:50 -0300"
@@ -257,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2023-02-26 14:09:12 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2022-10-02 15:14:22 -0300"
@@ -266,6 +278,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2022-10-02 14:58:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_green_dye": "2023-02-26 14:16:22 -0300"
     },
     "done": true
   },
@@ -482,6 +500,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2023-02-23 23:59:13 -0300",
+      "minecraft:spider": "2023-02-26 15:38:32 -0300",
+      "minecraft:creeper": "2023-02-26 15:37:08 -0300",
       "minecraft:phantom": "2022-12-16 12:38:04 -0300",
       "minecraft:husk": "2023-02-23 22:15:05 -0300",
       "minecraft:piglin": "2022-12-03 10:28:02 -0300",
@@ -606,6 +626,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2023-02-27 00:12:45 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_red_dye": "2023-02-24 18:03:46 -0300"
@@ -639,6 +665,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2023-02-22 23:52:23 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_candle": {
+    "criteria": {
+      "has_cyan_dye": "2023-02-26 14:09:27 -0300"
     },
     "done": true
   },
@@ -2014,6 +2046,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2023-02-26 14:16:22 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2023-02-22 23:52:23 -0300"
@@ -2068,6 +2106,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2023-02-26 15:09:27 -0300"
+    },
+    "done": true
+  },
   "minecraft:end/find_end_city": {
     "criteria": {
       "in_city": "2022-10-16 00:41:43 -0300"
@@ -2089,6 +2133,12 @@
   "minecraft:end/enter_end_gateway": {
     "criteria": {
       "entered_end_gateway": "2022-10-16 00:41:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_candle": {
+    "criteria": {
+      "has_light_blue_dye": "2023-02-26 14:16:18 -0300"
     },
     "done": true
   },
